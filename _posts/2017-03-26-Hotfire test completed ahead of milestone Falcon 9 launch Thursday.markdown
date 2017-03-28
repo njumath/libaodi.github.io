@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "web"
+category: "read"
 title:  "Hotfire test completed ahead of milestone Falcon 9 launch Thursday"
 tags: [SpaceX]
 ---
