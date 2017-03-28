@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "web"
+category: "internatioanl"
 title:  "Trump signs NASA authorization act, Pence to chair National Space Council"
 tags: [NASA]
 ---
