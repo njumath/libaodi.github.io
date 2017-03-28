@@ -4,7 +4,6 @@ category: "web"
 title:  "Trump signs NASA authorization act, Pence to chair National Space Council"
 tags: [NASA]
 ---
-### Trump signs NASA authorization act, Pence to chair National Space Council
 
 President Donald Trump signed a new NASA authorization bill Tuesday, the first such space policy framework since early in the Obama administration, that largely continues the space agency’s efforts to foster a commercial economy in Earth orbit and explore deep space, with an eventual goal of landing humans on Mars.
 
