@@ -1,10 +1,9 @@
 ---
 layout: post
-category: "read"
+category: "internantional"
 title:  "Hotfire test completed ahead of milestone Falcon 9 launch Thursday"
 tags: [SpaceX]
 ---
-### Hotfire test completed ahead of milestone Falcon 9 launch Thursday
 
 SpaceX has set the first launch of a “flight-proven” Falcon 9 rocket for Thursday evening after running the booster through a hold-down engine firing Monday at NASA’s Kennedy Space Center in Florida.
 
